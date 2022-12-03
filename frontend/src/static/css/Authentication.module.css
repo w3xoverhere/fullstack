@@ -1,0 +1,42 @@
+.LoginWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.LoginHeader {
+    font-family: sans-serif;
+    font-weight: 200;
+    color: #0eb939;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.LoginForm {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+
+.LoginInput {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border: 2px solid black
+}
+
+.LoginButton {
+    padding: 5px;
+    background-color: rgb(51, 172, 51);
+    color:aliceblue;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    border: 2px solid black;
+    text-align: center;
+    cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.mainWrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.mainLogo {
+    float:left;
+    width: 200px;
+}
+
+.mainParagraph {
+    width: 40%;
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: larger;
+}
